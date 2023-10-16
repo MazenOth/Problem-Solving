@@ -9,4 +9,5 @@ var m = [... readline()].sort().join('');
 
 print (m === s ? "YES" : "NO");
 
+
 //load('js/Amusing_Joke.js')
