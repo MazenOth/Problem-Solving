@@ -9,4 +9,3 @@ var countKDifference = function (nums, k) {
   }
   return count;
 };
-
